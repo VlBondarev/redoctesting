@@ -1,0 +1,8 @@
+{
+  "name": "your-repo-name",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "redoc-cli": "^0.11.0"
+  }
+}
